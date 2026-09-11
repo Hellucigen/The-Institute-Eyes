@@ -1,0 +1,18 @@
+# HSTforU 第三方参考实现(MIT License,见 HSTforU/HSTforU-main/README.md)
+# 体积约 105MB(含示例视频/图片),请从原仓库获取:
+# https://github.com/V-Tuan-Le/HSTforU (以 README 内链接为准)
+HSTforU/
+
+# 运行时产物
+__pycache__/
+*.py[cod]
+*.log
+*.pt
+*.pth
+*.onnx
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
